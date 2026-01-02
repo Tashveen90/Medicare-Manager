@@ -1,0 +1,5 @@
+{
+  "name": "MediCare Manager",
+  "description": "A modern, responsive Hospital Management System inspired by traditional Java Swing requirements. Features secure login, complete Doctor management (CRUD), and Patient admission/discharge workflows with automated timestamping.",
+  "requestFramePermissions": []
+}
